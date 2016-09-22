@@ -116,6 +116,7 @@ You change an R session's working directory via the following pulldown:
 
 ![](Figures/R_session_folder.png)
 
+
 You will also need to download and uncompress the data from [https://mgimond.github.io/MEGUG2016/Data.zip](https://mgimond.github.io/MEGUG2016/Data.zip) onto your computer.
 
 ## Loading a shapefile
@@ -405,7 +406,7 @@ qtm(dist_inc, fill="wgt_inc")
 
 # Additional resources
 
-+ This workshop is available online at [https://mgimond.github.io/MEGUG2016](https://mgimond.github.io/MEGUG2016).
++ This workshop is available online at [https://mgimond.github.io/MEGUG2016/Tutorial.html](https://mgimond.github.io/MEGUG2016/Tutorial.html).
 + I have additional *GIS with R* tutorials in the Appendix of my ES214 course site at [https://mgimond.github.io/Spatial](https://mgimond.github.io/Spatial). The Appendix also offers an extensive write-up on (raster) map algebra operations in R; this includes local, focal, zonal ang global operations.
 + For a general introduction to R and basic (aspatial) data manipulation and visualization you might want to skim through my *Exploratory Data Analysis with R* course page: [https://mgimond.github.io/ES218](https://mgimond.github.io/ES218/index.html).
 + To stay abreast of new spatially related packages in R, follow Roger Bivand's *CRAN Task View* at [https://cran.r-project.org/web/views/Spatial.html](https://cran.r-project.org/web/views/Spatial.html)
